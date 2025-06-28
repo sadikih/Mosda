@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'TT Norms';
+    font-style: normal;
+    font-weight: 500;
+    src: local('TT Norms'), url('https://fonts.cdnfonts.com/s/32001/TTNorms-Medium.woff') format('woff');
+}
+
+
